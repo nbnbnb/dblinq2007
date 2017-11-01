@@ -1,0 +1,7 @@
+D:\Repos\dblinq2007\build.dbg\sqlmetal.exe.config
+D:\Repos\dblinq2007\build.dbg\sqlmetal.exe
+D:\Repos\dblinq2007\build.dbg\sqlmetal.pdb
+D:\Repos\dblinq2007\src\DbMetal\obj\Debug\SqlMetal.csprojResolveAssemblyReference.cache
+D:\Repos\dblinq2007\src\DbMetal\obj\Debug\SqlMetal.csproj.CoreCompileInputs.cache
+D:\Repos\dblinq2007\src\DbMetal\obj\Debug\sqlmetal.exe
+D:\Repos\dblinq2007\src\DbMetal\obj\Debug\sqlmetal.pdb

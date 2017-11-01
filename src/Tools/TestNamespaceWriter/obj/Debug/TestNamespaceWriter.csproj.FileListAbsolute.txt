@@ -1,0 +1,7 @@
+D:\Repos\dblinq2007\src\Tools\TestNamespaceWriter\bin\Debug\TestNamespaceWriter.exe.config
+D:\Repos\dblinq2007\src\Tools\TestNamespaceWriter\bin\Debug\TestNamespaceWriter.exe
+D:\Repos\dblinq2007\src\Tools\TestNamespaceWriter\bin\Debug\TestNamespaceWriter.pdb
+D:\Repos\dblinq2007\src\Tools\TestNamespaceWriter\obj\Debug\TestNamespaceWriter.csprojResolveAssemblyReference.cache
+D:\Repos\dblinq2007\src\Tools\TestNamespaceWriter\obj\Debug\TestNamespaceWriter.csproj.CoreCompileInputs.cache
+D:\Repos\dblinq2007\src\Tools\TestNamespaceWriter\obj\Debug\TestNamespaceWriter.exe
+D:\Repos\dblinq2007\src\Tools\TestNamespaceWriter\obj\Debug\TestNamespaceWriter.pdb

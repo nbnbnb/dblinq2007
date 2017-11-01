@@ -1,0 +1,13 @@
+D:\Repos\dblinq2007\examples\DbLinq.Ingres.Example\bin\Debug\DbLinq.Ingres.Example.exe
+D:\Repos\dblinq2007\examples\DbLinq.Ingres.Example\bin\Debug\DbLinq.Ingres.Example.pdb
+D:\Repos\dblinq2007\examples\DbLinq.Ingres.Example\bin\Debug\DbLinq.dll
+D:\Repos\dblinq2007\examples\DbLinq.Ingres.Example\bin\Debug\DbLinq.Ingres.dll
+D:\Repos\dblinq2007\examples\DbLinq.Ingres.Example\bin\Debug\Ingres.Stereo.dll
+D:\Repos\dblinq2007\examples\DbLinq.Ingres.Example\bin\Debug\Npgsql.dll
+D:\Repos\dblinq2007\examples\DbLinq.Ingres.Example\bin\Debug\Mono.Security.dll
+D:\Repos\dblinq2007\examples\DbLinq.Ingres.Example\bin\Debug\DbLinq.Ingres.pdb
+D:\Repos\dblinq2007\examples\DbLinq.Ingres.Example\bin\Debug\DbLinq.pdb
+D:\Repos\dblinq2007\examples\DbLinq.Ingres.Example\obj\Debug\DbLinq.Ingres.Example.csprojResolveAssemblyReference.cache
+D:\Repos\dblinq2007\examples\DbLinq.Ingres.Example\obj\Debug\DbLinq.Ingres.Example.csproj.CoreCompileInputs.cache
+D:\Repos\dblinq2007\examples\DbLinq.Ingres.Example\obj\Debug\DbLinq.Ingres.Example.exe
+D:\Repos\dblinq2007\examples\DbLinq.Ingres.Example\obj\Debug\DbLinq.Ingres.Example.pdb

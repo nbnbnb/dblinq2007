@@ -1,0 +1,6 @@
+D:\Repos\dblinq2007\build.dbg\DbLinq.Sqlite.dll
+D:\Repos\dblinq2007\build.dbg\DbLinq.Sqlite.pdb
+D:\Repos\dblinq2007\src\DbLinq.Sqlite\obj\Debug\DbLinq.Sqlite.csproj.CoreCompileInputs.cache
+D:\Repos\dblinq2007\src\DbLinq.Sqlite\obj\Debug\DbLinq.Sqlite.dll
+D:\Repos\dblinq2007\src\DbLinq.Sqlite\obj\Debug\DbLinq.Sqlite.pdb
+D:\Repos\dblinq2007\src\DbLinq.Sqlite\obj\Debug\DbLinq.Sqlite.csprojResolveAssemblyReference.cache

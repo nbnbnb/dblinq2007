@@ -1,0 +1,11 @@
+D:\Repos\dblinq2007\examples\DbLinq.MySql.Example\bin\Debug\DbLinq.MySql.Example.exe
+D:\Repos\dblinq2007\examples\DbLinq.MySql.Example\bin\Debug\DbLinq.MySql.Example.pdb
+D:\Repos\dblinq2007\examples\DbLinq.MySql.Example\bin\Debug\DbLinq.dll
+D:\Repos\dblinq2007\examples\DbLinq.MySql.Example\bin\Debug\DbLinq.MySql.dll
+D:\Repos\dblinq2007\examples\DbLinq.MySql.Example\bin\Debug\MySql.Data.dll
+D:\Repos\dblinq2007\examples\DbLinq.MySql.Example\bin\Debug\DbLinq.MySql.pdb
+D:\Repos\dblinq2007\examples\DbLinq.MySql.Example\bin\Debug\DbLinq.pdb
+D:\Repos\dblinq2007\examples\DbLinq.MySql.Example\obj\Debug\DbLinq.MySql.Example.csprojResolveAssemblyReference.cache
+D:\Repos\dblinq2007\examples\DbLinq.MySql.Example\obj\Debug\DbLinq.MySql.Example.csproj.CoreCompileInputs.cache
+D:\Repos\dblinq2007\examples\DbLinq.MySql.Example\obj\Debug\DbLinq.MySql.Example.exe
+D:\Repos\dblinq2007\examples\DbLinq.MySql.Example\obj\Debug\DbLinq.MySql.Example.pdb

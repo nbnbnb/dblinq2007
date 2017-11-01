@@ -1,0 +1,6 @@
+D:\Repos\dblinq2007\build.dbg\DbLinq.Firebird.dll
+D:\Repos\dblinq2007\build.dbg\DbLinq.Firebird.pdb
+D:\Repos\dblinq2007\src\DbLinq.Firebird\obj\Debug\DbLinq.Firebird.csprojResolveAssemblyReference.cache
+D:\Repos\dblinq2007\src\DbLinq.Firebird\obj\Debug\DbLinq.Firebird.csproj.CoreCompileInputs.cache
+D:\Repos\dblinq2007\src\DbLinq.Firebird\obj\Debug\DbLinq.Firebird.dll
+D:\Repos\dblinq2007\src\DbLinq.Firebird\obj\Debug\DbLinq.Firebird.pdb

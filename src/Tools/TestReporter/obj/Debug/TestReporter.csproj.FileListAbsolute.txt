@@ -1,0 +1,5 @@
+D:\Repos\dblinq2007\src\Tools\TestReporter\bin\Debug\TestReporter.exe
+D:\Repos\dblinq2007\src\Tools\TestReporter\bin\Debug\TestReporter.pdb
+D:\Repos\dblinq2007\src\Tools\TestReporter\obj\Debug\TestReporter.csproj.CoreCompileInputs.cache
+D:\Repos\dblinq2007\src\Tools\TestReporter\obj\Debug\TestReporter.exe
+D:\Repos\dblinq2007\src\Tools\TestReporter\obj\Debug\TestReporter.pdb

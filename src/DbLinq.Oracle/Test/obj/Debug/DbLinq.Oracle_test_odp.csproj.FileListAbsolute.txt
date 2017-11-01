@@ -1,0 +1,7 @@
+D:\Repos\dblinq2007\build.dbg\DbLinq.Oracle_test_odp.exe.config
+D:\Repos\dblinq2007\build.dbg\DbLinq.Oracle_test_odp.exe
+D:\Repos\dblinq2007\build.dbg\DbLinq.Oracle_test_odp.pdb
+D:\Repos\dblinq2007\src\DbLinq.Oracle\Test\obj\Debug\DbLinq.Oracle_test_odp.csprojResolveAssemblyReference.cache
+D:\Repos\dblinq2007\src\DbLinq.Oracle\Test\obj\Debug\DbLinq.Oracle_test_odp.csproj.CoreCompileInputs.cache
+D:\Repos\dblinq2007\src\DbLinq.Oracle\Test\obj\Debug\DbLinq.Oracle_test_odp.exe
+D:\Repos\dblinq2007\src\DbLinq.Oracle\Test\obj\Debug\DbLinq.Oracle_test_odp.pdb

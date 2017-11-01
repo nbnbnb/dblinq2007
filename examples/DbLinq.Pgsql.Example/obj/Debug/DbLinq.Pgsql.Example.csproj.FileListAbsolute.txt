@@ -1,0 +1,12 @@
+D:\Repos\dblinq2007\examples\DbLinq.Pgsql.Example\bin\Debug\ClientCodePg.exe
+D:\Repos\dblinq2007\examples\DbLinq.Pgsql.Example\bin\Debug\ClientCodePg.pdb
+D:\Repos\dblinq2007\examples\DbLinq.Pgsql.Example\bin\Debug\DbLinq.dll
+D:\Repos\dblinq2007\examples\DbLinq.Pgsql.Example\bin\Debug\DbLinq.PostgreSql.dll
+D:\Repos\dblinq2007\examples\DbLinq.Pgsql.Example\bin\Debug\Npgsql.dll
+D:\Repos\dblinq2007\examples\DbLinq.Pgsql.Example\bin\Debug\Mono.Security.dll
+D:\Repos\dblinq2007\examples\DbLinq.Pgsql.Example\bin\Debug\DbLinq.PostgreSql.pdb
+D:\Repos\dblinq2007\examples\DbLinq.Pgsql.Example\bin\Debug\DbLinq.pdb
+D:\Repos\dblinq2007\examples\DbLinq.Pgsql.Example\obj\Debug\DbLinq.Pgsql.Example.csprojResolveAssemblyReference.cache
+D:\Repos\dblinq2007\examples\DbLinq.Pgsql.Example\obj\Debug\DbLinq.Pgsql.Example.csproj.CoreCompileInputs.cache
+D:\Repos\dblinq2007\examples\DbLinq.Pgsql.Example\obj\Debug\ClientCodePg.exe
+D:\Repos\dblinq2007\examples\DbLinq.Pgsql.Example\obj\Debug\ClientCodePg.pdb

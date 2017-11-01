@@ -1,0 +1,6 @@
+D:\Repos\dblinq2007\build.dbg\DbLinq.MySql.dll
+D:\Repos\dblinq2007\build.dbg\DbLinq.MySql.pdb
+D:\Repos\dblinq2007\src\DbLinq.MySql\obj\Debug\DbLinq.MySql.csprojResolveAssemblyReference.cache
+D:\Repos\dblinq2007\src\DbLinq.MySql\obj\Debug\DbLinq.MySql.csproj.CoreCompileInputs.cache
+D:\Repos\dblinq2007\src\DbLinq.MySql\obj\Debug\DbLinq.MySql.dll
+D:\Repos\dblinq2007\src\DbLinq.MySql\obj\Debug\DbLinq.MySql.pdb

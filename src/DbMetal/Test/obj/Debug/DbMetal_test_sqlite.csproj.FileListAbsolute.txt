@@ -1,0 +1,6 @@
+D:\Repos\dblinq2007\build.dbg\DbMetal_test_sqlite.dll
+D:\Repos\dblinq2007\build.dbg\DbMetal_test_sqlite.pdb
+D:\Repos\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_test_sqlite.csprojResolveAssemblyReference.cache
+D:\Repos\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_test_sqlite.csproj.CoreCompileInputs.cache
+D:\Repos\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_test_sqlite.dll
+D:\Repos\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_test_sqlite.pdb

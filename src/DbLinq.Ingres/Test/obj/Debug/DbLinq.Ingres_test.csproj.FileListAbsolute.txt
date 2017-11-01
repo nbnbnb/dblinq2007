@@ -1,0 +1,6 @@
+D:\Repos\dblinq2007\build.dbg\DbLinq.Ingres_test.exe
+D:\Repos\dblinq2007\build.dbg\DbLinq.Ingres_test.pdb
+D:\Repos\dblinq2007\src\DbLinq.Ingres\Test\obj\Debug\DbLinq.Ingres_test.csprojResolveAssemblyReference.cache
+D:\Repos\dblinq2007\src\DbLinq.Ingres\Test\obj\Debug\DbLinq.Ingres_test.csproj.CoreCompileInputs.cache
+D:\Repos\dblinq2007\src\DbLinq.Ingres\Test\obj\Debug\DbLinq.Ingres_test.exe
+D:\Repos\dblinq2007\src\DbLinq.Ingres\Test\obj\Debug\DbLinq.Ingres_test.pdb

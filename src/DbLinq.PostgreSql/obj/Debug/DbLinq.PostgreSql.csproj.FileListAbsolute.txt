@@ -1,0 +1,6 @@
+D:\Repos\dblinq2007\build.dbg\DbLinq.PostgreSql.dll
+D:\Repos\dblinq2007\build.dbg\DbLinq.PostgreSql.pdb
+D:\Repos\dblinq2007\src\DbLinq.PostgreSql\obj\Debug\DbLinq.PostgreSql.csproj.CoreCompileInputs.cache
+D:\Repos\dblinq2007\src\DbLinq.PostgreSql\obj\Debug\DbLinq.PostgreSql.dll
+D:\Repos\dblinq2007\src\DbLinq.PostgreSql\obj\Debug\DbLinq.PostgreSql.pdb
+D:\Repos\dblinq2007\src\DbLinq.PostgreSql\obj\Debug\DbLinq.PostgreSql.csprojResolveAssemblyReference.cache

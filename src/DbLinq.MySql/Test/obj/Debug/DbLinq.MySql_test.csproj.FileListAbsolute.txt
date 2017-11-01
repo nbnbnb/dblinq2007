@@ -1,0 +1,6 @@
+D:\Repos\dblinq2007\build.dbg\DbLinq.MySql_test.exe
+D:\Repos\dblinq2007\build.dbg\DbLinq.MySql_test.pdb
+D:\Repos\dblinq2007\src\DbLinq.MySql\Test\obj\Debug\DbLinq.MySql_test.csprojResolveAssemblyReference.cache
+D:\Repos\dblinq2007\src\DbLinq.MySql\Test\obj\Debug\DbLinq.MySql_test.csproj.CoreCompileInputs.cache
+D:\Repos\dblinq2007\src\DbLinq.MySql\Test\obj\Debug\DbLinq.MySql_test.exe
+D:\Repos\dblinq2007\src\DbLinq.MySql\Test\obj\Debug\DbLinq.MySql_test.pdb

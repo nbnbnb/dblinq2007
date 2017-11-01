@@ -1,0 +1,11 @@
+D:\Repos\dblinq2007\examples\DbLinq.FbSql.Example\bin\Debug\DbLinq.FbSql.Example.exe
+D:\Repos\dblinq2007\examples\DbLinq.FbSql.Example\bin\Debug\DbLinq.FbSql.Example.pdb
+D:\Repos\dblinq2007\examples\DbLinq.FbSql.Example\bin\Debug\DbLinq.dll
+D:\Repos\dblinq2007\examples\DbLinq.FbSql.Example\bin\Debug\DbLinq.Firebird.dll
+D:\Repos\dblinq2007\examples\DbLinq.FbSql.Example\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+D:\Repos\dblinq2007\examples\DbLinq.FbSql.Example\bin\Debug\DbLinq.Firebird.pdb
+D:\Repos\dblinq2007\examples\DbLinq.FbSql.Example\bin\Debug\DbLinq.pdb
+D:\Repos\dblinq2007\examples\DbLinq.FbSql.Example\obj\Debug\DbLinq.FbSql.Example.csprojResolveAssemblyReference.cache
+D:\Repos\dblinq2007\examples\DbLinq.FbSql.Example\obj\Debug\DbLinq.FbSql.Example.csproj.CoreCompileInputs.cache
+D:\Repos\dblinq2007\examples\DbLinq.FbSql.Example\obj\Debug\DbLinq.FbSql.Example.exe
+D:\Repos\dblinq2007\examples\DbLinq.FbSql.Example\obj\Debug\DbLinq.FbSql.Example.pdb

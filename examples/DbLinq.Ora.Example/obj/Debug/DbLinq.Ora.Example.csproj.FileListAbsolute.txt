@@ -1,0 +1,10 @@
+D:\Repos\dblinq2007\examples\DbLinq.Ora.Example\bin\Debug\ClientCodeOra.exe
+D:\Repos\dblinq2007\examples\DbLinq.Ora.Example\bin\Debug\ClientCodeOra.pdb
+D:\Repos\dblinq2007\examples\DbLinq.Ora.Example\bin\Debug\DbLinq.dll
+D:\Repos\dblinq2007\examples\DbLinq.Ora.Example\bin\Debug\DbLinq.Oracle.dll
+D:\Repos\dblinq2007\examples\DbLinq.Ora.Example\bin\Debug\DbLinq.Oracle.pdb
+D:\Repos\dblinq2007\examples\DbLinq.Ora.Example\bin\Debug\DbLinq.pdb
+D:\Repos\dblinq2007\examples\DbLinq.Ora.Example\obj\Debug\DbLinq.Ora.Example.csprojResolveAssemblyReference.cache
+D:\Repos\dblinq2007\examples\DbLinq.Ora.Example\obj\Debug\DbLinq.Ora.Example.csproj.CoreCompileInputs.cache
+D:\Repos\dblinq2007\examples\DbLinq.Ora.Example\obj\Debug\ClientCodeOra.exe
+D:\Repos\dblinq2007\examples\DbLinq.Ora.Example\obj\Debug\ClientCodeOra.pdb
