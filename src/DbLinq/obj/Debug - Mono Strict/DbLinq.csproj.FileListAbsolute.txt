@@ -1,5 +1,0 @@
-D:\Repos\dblinq2007\build.dbg.mono\DbLinq.dll
-D:\Repos\dblinq2007\build.dbg.mono\DbLinq.pdb
-D:\Repos\dblinq2007\src\DbLinq\obj\Debug - Mono Strict\DbLinq.csproj.CoreCompileInputs.cache
-D:\Repos\dblinq2007\src\DbLinq\obj\Debug - Mono Strict\DbLinq.dll
-D:\Repos\dblinq2007\src\DbLinq\obj\Debug - Mono Strict\DbLinq.pdb

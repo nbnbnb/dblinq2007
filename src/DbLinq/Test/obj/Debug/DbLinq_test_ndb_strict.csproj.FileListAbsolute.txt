@@ -1,5 +1,0 @@
-D:\Repos\dblinq2007\build.dbg\DbLinq_test_ndb_strict.dll
-D:\Repos\dblinq2007\build.dbg\DbLinq_test_ndb_strict.pdb
-D:\Repos\dblinq2007\src\DbLinq\Test\obj\Debug\DbLinq_test_ndb_strict.csproj.CoreCompileInputs.cache
-D:\Repos\dblinq2007\src\DbLinq\Test\obj\Debug\DbLinq_test_ndb_strict.dll
-D:\Repos\dblinq2007\src\DbLinq\Test\obj\Debug\DbLinq_test_ndb_strict.pdb

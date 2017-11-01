@@ -1,6 +1,0 @@
-D:\Repos\dblinq2007\build.dbg.mono\System.Data.Linq.dll
-D:\Repos\dblinq2007\build.dbg.mono\System.Data.Linq.pdb
-D:\Repos\dblinq2007\src\DbLinq\obj\Debug - Mono Strict\System.Data.Linq.csprojResolveAssemblyReference.cache
-D:\Repos\dblinq2007\src\DbLinq\obj\Debug - Mono Strict\System.Data.Linq.csproj.CoreCompileInputs.cache
-D:\Repos\dblinq2007\src\DbLinq\obj\Debug - Mono Strict\System.Data.Linq.dll
-D:\Repos\dblinq2007\src\DbLinq\obj\Debug - Mono Strict\System.Data.Linq.pdb

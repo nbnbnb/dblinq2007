@@ -1,5 +1,0 @@
-D:\Repos\dblinq2007\build.dbg\DbLinq.SqlServer_test_strict.dll
-D:\Repos\dblinq2007\build.dbg\DbLinq.SqlServer_test_strict.pdb
-D:\Repos\dblinq2007\src\DbLinq.SqlServer\Test\obj\Debug\DbLinq.SqlServer_test_strict.csproj.CoreCompileInputs.cache
-D:\Repos\dblinq2007\src\DbLinq.SqlServer\Test\obj\Debug\DbLinq.SqlServer_test_strict.dll
-D:\Repos\dblinq2007\src\DbLinq.SqlServer\Test\obj\Debug\DbLinq.SqlServer_test_strict.pdb
