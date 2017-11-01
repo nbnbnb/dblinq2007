@@ -171,7 +171,6 @@ $RECYCLE.BIN/
 *.orig
 
 # vs 
-/.vs/*
-/.vs
+.vs/*
+.vs
 
-packages/
