@@ -174,3 +174,4 @@ $RECYCLE.BIN/
 .vs/*
 .vs
 
+build.dbg*/
