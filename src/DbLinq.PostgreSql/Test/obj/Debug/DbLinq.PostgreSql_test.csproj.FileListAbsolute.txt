@@ -1,6 +1,0 @@
-D:\Repos\dblinq2007\build.dbg\DbLinq.PostgreSql_test.exe
-D:\Repos\dblinq2007\build.dbg\DbLinq.PostgreSql_test.pdb
-D:\Repos\dblinq2007\src\DbLinq.PostgreSql\Test\obj\Debug\DbLinq.PostgreSql_test.csprojResolveAssemblyReference.cache
-D:\Repos\dblinq2007\src\DbLinq.PostgreSql\Test\obj\Debug\DbLinq.PostgreSql_test.csproj.CoreCompileInputs.cache
-D:\Repos\dblinq2007\src\DbLinq.PostgreSql\Test\obj\Debug\DbLinq.PostgreSql_test.exe
-D:\Repos\dblinq2007\src\DbLinq.PostgreSql\Test\obj\Debug\DbLinq.PostgreSql_test.pdb
