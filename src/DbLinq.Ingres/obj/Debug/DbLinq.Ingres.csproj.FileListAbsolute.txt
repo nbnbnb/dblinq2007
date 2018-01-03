@@ -1,6 +1,0 @@
-D:\Repos\dblinq2007\build.dbg\DbLinq.Ingres.dll
-D:\Repos\dblinq2007\build.dbg\DbLinq.Ingres.pdb
-D:\Repos\dblinq2007\src\DbLinq.Ingres\obj\Debug\DbLinq.Ingres.csprojResolveAssemblyReference.cache
-D:\Repos\dblinq2007\src\DbLinq.Ingres\obj\Debug\DbLinq.Ingres.csproj.CoreCompileInputs.cache
-D:\Repos\dblinq2007\src\DbLinq.Ingres\obj\Debug\DbLinq.Ingres.dll
-D:\Repos\dblinq2007\src\DbLinq.Ingres\obj\Debug\DbLinq.Ingres.pdb

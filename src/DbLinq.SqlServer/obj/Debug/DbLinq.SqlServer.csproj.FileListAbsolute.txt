@@ -1,6 +1,0 @@
-D:\Repos\dblinq2007\build.dbg\DbLinq.SqlServer.dll
-D:\Repos\dblinq2007\build.dbg\DbLinq.SqlServer.pdb
-D:\Repos\dblinq2007\src\DbLinq.SqlServer\obj\Debug\DbLinq.SqlServer.csproj.CoreCompileInputs.cache
-D:\Repos\dblinq2007\src\DbLinq.SqlServer\obj\Debug\DbLinq.SqlServer.dll
-D:\Repos\dblinq2007\src\DbLinq.SqlServer\obj\Debug\DbLinq.SqlServer.pdb
-D:\Repos\dblinq2007\src\DbLinq.SqlServer\obj\Debug\DbLinq.SqlServer.csprojResolveAssemblyReference.cache

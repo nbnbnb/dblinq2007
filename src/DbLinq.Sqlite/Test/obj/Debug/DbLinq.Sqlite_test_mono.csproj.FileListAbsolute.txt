@@ -1,6 +1,0 @@
-D:\Repos\dblinq2007\build.dbg\DbLinq.Sqlite_test_mono.dll
-D:\Repos\dblinq2007\build.dbg\DbLinq.Sqlite_test_mono.pdb
-D:\Repos\dblinq2007\src\DbLinq.Sqlite\Test\obj\Debug\DbLinq.Sqlite_test_mono.csprojResolveAssemblyReference.cache
-D:\Repos\dblinq2007\src\DbLinq.Sqlite\Test\obj\Debug\DbLinq.Sqlite_test_mono.csproj.CoreCompileInputs.cache
-D:\Repos\dblinq2007\src\DbLinq.Sqlite\Test\obj\Debug\DbLinq.Sqlite_test_mono.dll
-D:\Repos\dblinq2007\src\DbLinq.Sqlite\Test\obj\Debug\DbLinq.Sqlite_test_mono.pdb

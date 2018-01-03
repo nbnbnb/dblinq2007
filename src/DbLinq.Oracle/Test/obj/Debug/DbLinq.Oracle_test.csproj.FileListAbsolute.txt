@@ -1,7 +1,0 @@
-D:\Repos\dblinq2007\build.dbg\DbLinq.Oracle_test.exe.config
-D:\Repos\dblinq2007\build.dbg\DbLinq.Oracle_test.exe
-D:\Repos\dblinq2007\build.dbg\DbLinq.Oracle_test.pdb
-D:\Repos\dblinq2007\src\DbLinq.Oracle\Test\obj\Debug\DbLinq.Oracle_test.csproj.CoreCompileInputs.cache
-D:\Repos\dblinq2007\src\DbLinq.Oracle\Test\obj\Debug\DbLinq.Oracle_test.exe
-D:\Repos\dblinq2007\src\DbLinq.Oracle\Test\obj\Debug\DbLinq.Oracle_test.pdb
-D:\Repos\dblinq2007\src\DbLinq.Oracle\Test\obj\Debug\DbLinq.Oracle_test.csprojResolveAssemblyReference.cache

@@ -1,6 +1,0 @@
-D:\Repos\dblinq2007\build.dbg\DbMetal_test.dll
-D:\Repos\dblinq2007\build.dbg\DbMetal_test.pdb
-D:\Repos\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_test.csprojResolveAssemblyReference.cache
-D:\Repos\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_test.csproj.CoreCompileInputs.cache
-D:\Repos\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_test.dll
-D:\Repos\dblinq2007\src\DbMetal\Test\obj\Debug\DbMetal_test.pdb

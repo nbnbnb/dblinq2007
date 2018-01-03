@@ -1,6 +1,0 @@
-D:\Repos\dblinq2007\build.dbg\DbLinq.SqlCe.dll
-D:\Repos\dblinq2007\build.dbg\DbLinq.SqlCe.pdb
-D:\Repos\dblinq2007\src\DbLinq.SqlCe\obj\Debug\DbLinq.SqlCe.csprojResolveAssemblyReference.cache
-D:\Repos\dblinq2007\src\DbLinq.SqlCe\obj\Debug\DbLinq.SqlCe.csproj.CoreCompileInputs.cache
-D:\Repos\dblinq2007\src\DbLinq.SqlCe\obj\Debug\DbLinq.SqlCe.dll
-D:\Repos\dblinq2007\src\DbLinq.SqlCe\obj\Debug\DbLinq.SqlCe.pdb
